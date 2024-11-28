@@ -1,10 +1,3 @@
-<div id="top"></div>
-
-<br />
-<div align="center">
- <a href="https://www.freecodecamp.org/">
-   <img src="./public/fcc-logo.png" alt="Logo" width="80" height="80">
- </a>
 
 
 <h3 align="center">How to Validate Forms with Zod and React-Hook-Form</h3>
@@ -20,10 +13,6 @@
 
 </div>
 
-
-![Thumbnail](./public/cover.png)
-
-
 ## Introduction
 
 
@@ -32,8 +21,6 @@ This is the GitHub repository for the
 tutorial. 
 
 In this tutorial, you will learn how to build a type-safe form using [React-Hook-Form](https://github.com/react-hook-form/react-hook-form) for form management and [Zod](https://github.com/colinhacks/zod) for both client-side and server-side validation.
-
-
 
 
 
