@@ -30,11 +30,8 @@ In this tutorial, you will learn how to build a type-safe form using [React-Hook
 To get started, follow the steps below:
 
 
-1. Clone the `starter` branch of this repository:
-
-
 ```bash
-git clone --branch starter https://github.com/Giftea/zod-rhf-fcc.git
+git clone --branch https://github.com/ggirotra/react-hookform-zod-resolver
 ```
 
 
